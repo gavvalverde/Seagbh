@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+
+# Build do PyInstaller
+build/
+dist/
+
+# Banco de dados local
+*.db
+
+# Arquivos temporários
+__pycache__/
+*.pyc
